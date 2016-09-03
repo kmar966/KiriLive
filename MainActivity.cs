@@ -7,7 +7,7 @@ namespace KiribatiRadioLive
 	[Activity(Label = "KiribatiRadioLive", MainLauncher = true, Icon = "@mipmap/icon")]
 	public class MainActivity : Activity
 	{
-		int i = 0;
+
 		protected override void OnCreate(Bundle savedInstanceState)
 		{
 			base.OnCreate(savedInstanceState);
